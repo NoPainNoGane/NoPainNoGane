@@ -1,3 +1,5 @@
+![til](https://github.com/NoPainNoGane/NoPainNoGane/blob/main/img/723262.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on computer vision, deep learning, <br>sound processing, time series analysis, and backend development<br>using FastAPI. I also focus on deploying applications with Docker.<br><br>👯 I’m looking to collaborate on projects related to machine learning, <br>especially in the fields of computer vision and <br>natural language processing.<br><br>🤝 I’m looking for help with advanced NLP techniques and <br>Java programming.<br><br>🌱 I’m currently learning more about natural language processing<br> and improving my Java skills.<br><br>💬 Ask me about machine learning, deep learning, FastAPI<br> and deploying applications with Docker.<br><br>⚡ Fun fact: No Pain No Gain<br>
 
